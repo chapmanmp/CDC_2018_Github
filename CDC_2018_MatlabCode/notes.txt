@@ -1,0 +1,13 @@
+model_id_K14only_aug6.mat are the model identification results for 2 phenotypic states published in Chapman et al., PLoS Computational Biology 2019.
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
+model_id_K14only_aug6.mat (model id for 2 phenotypic states) is also located here:
+
+    C:\Users\chapmanm\Documents\MATLAB\BiologicalNetworks\Phenotypic State Modeling\Phenotypic_State_Dyn_Library\Results_Summer_2017\model_id
+
+GetCellCtsCELL.m, GetCellCtsMATRIX.m, GetCellCtsVEC.m, ReadDeathOption.m, GetK14.m are used to extract an initial condition from the data.
+
+These functions are also located here: 
+
+    C:\Users\chapmanm\Documents\MATLAB\BiologicalNetworks\Phenotypic State Modeling\Phenotypic_State_Dyn_Library 
